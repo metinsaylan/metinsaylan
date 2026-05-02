@@ -23,7 +23,7 @@ jobs:
           plugin_achievements_limit: 0
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
-          plugin_languages: yes
+          plugin_languages: no
           plugin_languages_analysis_timeout: 15
           plugin_languages_categories: markup, programming
           plugin_languages_colors: github
