@@ -39,3 +39,6 @@ jobs:
           plugin_people_types: followers, following
           plugin_sponsors: yes
           plugin_sponsors_sections: goal, about
+          plugin_topics: yes
+          plugin_topics_mode: icons
+
